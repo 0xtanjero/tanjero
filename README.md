@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @praxhat
+- 👋 Hi, I’m @0xtanjero
 - 👀 I’m interested in Smart Contracts :)
 - 🌱 I’m just another noob
 - 💞️ Let's try collaborating if you see me active more than 5 months.
-- 📫 How to reach me? Telegram: @praxhat
+- 📫 How to reach me? Telegram: @tanjero0x
 
 <!---
 praxhat/praxhat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
